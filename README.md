@@ -5,7 +5,7 @@
     
 </p>
 
-The official repo for our paper **U<sup>2</sup>-Net(U square net)** published in Pattern Recognition 2020:
+This is the official repo for our paper **U<sup>2</sup>-Net(U square net)** published in Pattern Recognition 2020:
 
 ## [U<sup>2</sup>-Net: Going Deeper with Nested U-Structure for Salient Object Detection](https://arxiv.org/pdf/2005.09007.pdf)
 [Xuebin Qin](https://webdocs.cs.ualberta.ca/~xuebin/), [Zichen Zhang](https://webdocs.cs.ualberta.ca/~zichen2/), [Chenyang Huang](https://chenyangh.com/), [Masood Dehghan](https://sites.google.com/view/masooddehghan), [Osmar R. Zaiane](http://webdocs.cs.ualberta.ca/~zaiane/) and [Martin Jagersand](https://webdocs.cs.ualberta.ca/~jag/)
@@ -14,6 +14,10 @@ The official repo for our paper **U<sup>2</sup>-Net(U square net)** published in
 __Contact__: xuebin[at]ualberta[dot]ca
 
 ## Updates !!!
+
+**(2021-May-26)** Thank [**Dang Quoc Quy**](https://github.com/quyvsquy) for his [**Art Transfer APP**](https://play.google.com/store/apps/details?id=com.quyvsquy.arttransfer) built upon U<sup>2</sup>-Net.
+
+![art_transfer](figures/art_transfer.JPG)
 
 **(2021-May-5)** Thank [**AK391**](https://github.com/AK391) for sharing his [**Gradio Web Demo of U<sup>2</sup>-Net**](https://gradio.app/hub/AK391/U-2-Net).
 
